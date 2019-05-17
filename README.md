@@ -2,9 +2,4 @@
 
 This repo contains my own notes for the Google Data Engineer certification. 
 
-
-
-## Google Cloud Storage
-
-
-
+Those notes are heavily DRAFT. 
